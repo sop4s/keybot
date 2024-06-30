@@ -2,10 +2,9 @@
 
 Keybot is a simple CLI program that simulates keystrokes from a text file.
 
-## Index
-[Usage](#markdown-header-usage)
-
-[Installation](#markdown-header-installation)
+* Table of contents
+  * [Usage](#usage)
+  * [Installation](#installation)
 
 ## Usage
 You can use the following options:
