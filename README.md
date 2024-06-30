@@ -18,6 +18,7 @@ keybot <files> <countdown> <interval between keys> <interval between lines>
 |coundown| countdown, gives you time to place your mouse correctly in a text label|
 |interval between keys|  time (ms) between key press|
 |interval between lines| time (ms) between each line|
+
 Example:
 ```bash
 keybot *.txt 5 20 3000
