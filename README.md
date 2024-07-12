@@ -51,13 +51,13 @@ Generally X11 is installed by default.
 
 ### Ubuntu / Debian
 ```bash
-sudo apt install libx11-dev libxtst-dev libxext-dev``
+sudo apt install libx11-dev libxtst-dev libxext-dev
 ```
 ### Fedora
 ```bash
-sudo dnf install libX11-devel libXtst-devel libXext-devel``
+sudo dnf install libX11-devel libXtst-devel libXext-devel
 ```
 ### Arch linux
 ```bash
-sudo pacman -S libx11 libxtst libxext``
+sudo pacman -S libx11 libxtst libxext
 ```
